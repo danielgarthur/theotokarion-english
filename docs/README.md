@@ -50,15 +50,13 @@
 
 <p class="ode">Heal the sufferings of my soul that I may magnify thee faithfully, O all-pure one who gavest birth unto the one who hath healed our infirmities by his all-august and saving Passions.</p>
 
-<p class="ode">Unlike Lamech, I murdered not the man and youth, O Mother of God, but rather my mind and reason by my offenses. Hence, when I am judged, let not punishment be dispensed but rather</p>
-<p class="ode">cleanse me herein.</p>
+<p class="ode">Unlike Lamech, I murdered not the man and youth, O Mother of God, but rather my mind and reason by my offenses. Hence, when I am judged, let not punishment be dispensed but rather cleanse me herein.</p>
 
 #### Ode 6
 
 <p class="ode">I have defiled my body with deeds, my mind with thoughts, and my senses with the touch of the pleasures. Grant me healing from these through the dripping of my tears, O graced of God.</p>
 
-<p class="ode">The time of my life has been consumed by sleep and rest and reveling and wandering thoughts.</p>
-<p class="ode">Wherefore chasten me now, O Mother of God, if only in my old age, and lead me by the hand to repentance.</p>
+<p class="ode">The time of my life has been consumed by sleep and rest and reveling and wandering thoughts. Wherefore chasten me now, O Mother of God, if only in my old age, and lead me by the hand to repentance.</p>
 
 <p class="ode">Reflecting on the madness of those before the law, I set my hand to shameful deeds, foolishly laying one atop another like walls. Wherefore by the divine Spirit, O pure one, grant me understanding.</p>
 
