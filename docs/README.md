@@ -106,6 +106,107 @@
 
 <p class="ode">Fill my heart with joy, O pure one, as thou art compassionate, and set me free from tears, as one who didst give birth to joy, thou who alone art the Mother of God. And rescue me, thy servant, I pray, from all dangers, so that I may glorify and magnify thee with longing, O thou who dost surpass all beings.</p>
 
+## Plagal of the Second Tone
+
+### Monday Evening
+
+<p class="evening-subtitle">A composition of Saint Andrew of Crete</p>
+
+<p class="evening-subtitle">Whose acrostic is “Let us come again for the sake of good lamentation.”</p>
+
+#### Ode 1
+
+<p class="ode">The wonderful Joel, the great prophet of the Lord, prophetically said to piously mourn and lament with sackcloth, but I despise this. But do thou, O Virgin, save me.</p>
+
+<p class="ode">As one who possesseth a fountain of compassion, O Conceiver of God, wash my body and soul, which have been shamefully defiled, O Maiden, and clothe me in a clean garment of grace.</p>
+
+<p class="ode">Despise me not, O good one, who am utterly corrupted in lawlessness and already wholly under the curse of bitter pleasures, but wash me of all filth and save me.</p>
+
+<p class="ode">Let the bridegroom, O bride, come forth from the bridal-chamber, says the prophet, and let them now weep. And let us, O my soul, fall down with lamentation before the Mother of the Redeemer.</p>
+
+#### Ode 3
+
+<p class="ode">Let us renew the fields of the soul in this life, sowing virtue, that we may reap the grain of life thither.</p>
+
+<p class="ode">O Lady who hast not known man, by thine intercessions before thy Son, quicken me, who am made dead by sin and by the counsel of the demons.</p>
+
+<p class="ode">I have fallen because of the absurdity of my deeds, O Lady, and I lie now in a pit of destruction. Grant me repentance, O immaculate one.</p>
+
+<p class="ode">I feed the passions in my soul, which are like savage beasts with whom I cannot bear to dwell. I flee to thy protection, O Virgin.</p>
+
+#### Ode 4
+
+<p class="ode">By thy strength, O Mother of God, let the unclean and profane thoughts which are mine adversaries be turned back, and let their bows be shattered. And grant me, thy servant, to walk through tears toward dispassion.</p>
+
+<p class="ode">Bound fast by the cords of sins, O Mother of God, I do not cease, but rather I weave more insoluble bonds, adding passions upon passions. And I am become a curse to all, drawing upon me the woe of the prophet.</p>
+
+<p class="ode">I cease not scratching the wounds of my soul with the love of pleasure, and I add suffering to the bruises, remaining numbly uncured. Have mercy on me, O Birth-giver of God, and heal me and save me by thine intercessions.</p>
+
+<p class="ode">Seeing the events of life passing every day like fleeting dreams, O Conceiver of God, I in no wise take notice of them. But yet I have clung to them like ivy to the top of an oak tree.</p>
+
+#### Ode 5
+
+<p class="ode">Having been lifted up by pride, O all-lauded one, I have fallen into the terrible fall of sin that crushes my soul. Who will raise me up if not thee, O Mother of God?</p>
+
+<p class="ode">Grant me perseverance, O Lady, through all hardships and evil from without, which have suddenly fallen upon me, for I am faint-hearted and deprived of wages.</p>
+
+<p class="ode">Deliver me from the stumbling blocks of the demons, O Lady, and from every threat and the outer darkness, for I have steadfastly placed my hope in thee.</p>
+
+<p class="ode">Unchaste thoughts disturb my wretched soul, O all-holy Lady, and persuade me to foolishly agree with them. Deliver me from them swiftly.</p>
+
+#### Ode 6
+
+<p class="ode">The Lord called it adultery to look passionately at countenances, but I, O Virgin, sick with incontinence, defile my soul with licentious gazes.</p>
+
+<p class="ode">While I am sleeping, thoughts of licentiousness dreadfully attack and force in ticklings and flowings, but spare me from their harm, O all-spotless one.</p>
+
+<p class="ode">O Mary, Bride of God, I fall down before thee and cry out with tears: O Theotokos, deliver my wretched soul from the coming judgment and the eternal fire.</p>
+
+<p class="ode">I know to remove the causes of idle words, having learned from the Scriptures, but I, O Virgin, am not terrified, busying myself with ill-timed nonsense and arguments.</p>
+
+#### Kathisma
+
+<p class="ode">O good Virgin, make the judge of the world, thy Son, merciful unto me, who have fallen many times. For no one is able to mediate as thou art, being the Mother of the Lord God. Wherefore fervently intercede for me, O only blessed one.</p>
+
+#### Ode 7
+
+<p class="ode">We have sinned. We have worked lawlessness. We have embittered Christ, O Virgin. We have committed every sinful deed, moving him toward wrath. But do thou make him merciful toward us, the condemned.</p>
+
+<p class="ode">By thoughts and sensations and deeds, O Conceiver of God, I have wholly rejected the living God, and have been a slave to the tyrants who invented the passions. But do thou deliver me from these and grant me the radiance of repentance.</p>
+
+<p class="ode">When my wretched soul is about to endure the separation from the body and there is no one rescuing or comforting it, then, O Lady, stand before me and deliver me from the onslaught of the demons.</p>
+
+<p class="ode">My Lord called hypocrisy a great evil in life. May I be rescued by thy strength, O Bride of God, from its deceitful actions, lest Christ cut me in twain with the sword of the Spirit.</p>
+
+#### Ode 8
+
+<p class="ode">As is due, we, the fallen and condemned, call upon thine intercession before thy Son, O Mother of God, so that by thy mediation we may be saved from Gehenna.</p>
+
+<p class="ode">Christ came to call sinners to repentance. As many as have rejected his words, come with me and let us fall down before the Theotokos with repentance.</p>
+
+<p class="ode">Send down rivers of tears to me and groaning from the soul with anguish, so that I may quench that insufferable flame and attain to the glory of Paradise.</p>
+
+<p class="ode">In order to deify mortals, O Lady, thy Son was seen from thee a perfect mortal. Wherefore importune him that Ηe may show me, perfectly cleansed, to be a communicant of his kingdom.</p>
+
+#### Ode 9
+
+<p class="ode">The bridal-chamber hath been prepared in the heavens by thy Son, O Bride of God, full of every joy for those who have kept his commandments blamelessly. But for me is prepared darkness and lamentation and the fire of Gehenna, from which do thou beseech him to deliver me.</p>
+
+<p class="ode">Sweat and tears and toil have been thrown down in this stadium, O Bride of God, and thither are the crowns and rewards and prizes. And who is the truly blessed one who sows weeping and reaps rejoicing?</p>
+
+<p class="ode">By repentance, O all-pure one, the fallen are once again becoming winged like hawks, making their flight toward the heavenly minds. Μay I myself, the sinful one, also be deemed worthy of their portion, being saved by thine intercessions.</p>
+
+<p class="ode">As one who didst give birth to the abyss of mercy, O spotless one, have mercy on me, thy worthless servant, and deliver me from punishment and judgment, O Lady, and deem me worthy of the kingdom of the heavens, O Virgin, so that with longing I may magnify thee.</p>
+
+#### Prosomia
+
+<p class="ode">Rejoice, spotless daughter of the Father and Mother of the Word. Rejoice, bride of the Spirit who art higher and warmer than the Thrones, mightier than the Seraphim, more knowledgeable than the Cherubim, who hast dominion over the Dominions, who art more powerful than the Powers, who surpassest the Principalities, who rulest the Rulers, who art more general-like than the Archangels, who servest more than the Angels the faithful who will obtain salvation.</p>
+
+<p class="ode">Rejoice, O Theotokos, queen of all queens. Rejoice, thou who dost surpass all the heavenly Powers. Rejoice, thou who alone art the Mistress of the earth and sea, and the Empress of creation. Rejoice, O all-lauded one, thou mightiest sceptre and valiant stronghold, thou strength and might of kings. Rejoice, divine garden. Rejoice, O pure one, thou death of Hades. Rejoice, O all-blessed one, thou refuge of Christians.</p>
+
+<p class="ode">Rejoice, fiery throne of the Lord of kings. Rejoice, divine table who bearest in thy midst the heavenly bread. Rejoice, O all-blameless one, thou fruitful earth who producest the wheat of life, from which those who eat thereof see not death, O Lady, but are brought to eternal life, just as the only Master of all, the nourisher and sustainer, did say before. Rejoice, refuge of the faithful. Rejoice, most wondrous one.</p>
+
+<p class="ode">We, who are terribly scourged by afflictions, beseech thee, the supreme champion, and earnestly entreat thee, O Virgin: As one having motherly power toward the Lord, break asunder our enemies, lest they say: Where is the God whom they serve? And may the wretched ones know that we have acquired thee as our only shelter and protection after God, and as a steadfast tower. Do not overlook those who run to thee, O all-blameless one.</p>
 
 <style>
 p.ode:first-letter {
