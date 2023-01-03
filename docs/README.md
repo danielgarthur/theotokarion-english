@@ -56,7 +56,7 @@
 
 <p class="ode">I have defiled my body with deeds, my mind with thoughts, and my senses with the touch of the pleasures. Grant me healing from these through the dripping of my tears, O graced of God.</p>
 
-<p class="ode">The time of my life has been consumed by sleep and rest and reveling and wandering thoughts. Wherefore chasten me now, O Mother of God, if only in my old age, and lead me by the hand to repentance.</p>
+<p class="ode">The time of my life hath been consumed by sleep and rest and reveling and wandering thoughts. Wherefore chasten me now, O Mother of God, if only in my old age, and lead me by the hand to repentance.</p>
 
 <p class="ode">Reflecting on the madness of those before the law, I set my hand to shameful deeds, foolishly laying one atop another like walls. Wherefore by the divine Spirit, O pure one, grant me understanding.</p>
 
