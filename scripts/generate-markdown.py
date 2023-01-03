@@ -1,4 +1,9 @@
+import time
+
+
 def main():
+    time_start = time.time()
+
     file_out = open('../docs/README.md', 'w', encoding='utf-8')
 
     file_template = open('../sources/template.md', 'r', encoding='utf-8')
@@ -13,6 +18,10 @@ def main():
 
     file_out.close()
     file_template.close()
+
+    time_end = time.time()
+
+    print(f'Generated Markdown in {round(time_end - time_start, 2)} s')
 
 
 def generateMainContent(file_out):
