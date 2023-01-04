@@ -84,7 +84,7 @@
 
 <p class="ode">I have foolishly indulged in every possible pleasure, and I have shamefully defiled every one of my senses. O undefiled Lady and protectress of all sinners, unto thee I flee for refuge. Deliver me from the fire and eternal darkness.</p>
 
-<p class="ode">With the sprinkling of my tears, O pure one, wash the sores and festering wounds of my soul, O thou who didst bear the Christ who healed the lepers and the woman with the issue of blood, so that I too may hear the longed-for voice: thy faith hath saved thee, go in peace.</p>
+<p class="ode">With the sprinkling of my tears, O pure one, wash the sores and festering wounds of my soul, O thou who didst bear the Christ who healed the lepers and the woman with the issue of blood, so that I too may hear the longed-for voice: Thy faith hath saved thee, go in peace.</p>
 
 #### Ode 9
 
@@ -207,6 +207,118 @@
 <p class="ode">Rejoice, fiery throne of the Lord of kings. Rejoice, divine table who bearest in thy midst the heavenly bread. Rejoice, O all-blameless one, thou fruitful earth who producest the wheat of life, from which those who eat thereof see not death, O Lady, but are brought to eternal life, just as the only Master of all, the nourisher and sustainer, did say before. Rejoice, refuge of the faithful. Rejoice, most wondrous one.</p>
 
 <p class="ode">We, who are terribly scourged by afflictions, beseech thee, the supreme champion, and earnestly entreat thee, O Virgin: As one having motherly power toward the Lord, break asunder our enemies, lest they say: Where is the God whom they serve? And may the wretched ones know that we have acquired thee as our only shelter and protection after God, and as a steadfast tower. Do not overlook those who run to thee, O all-blameless one.</p>
+
+## Plagal of the Fourth Tone
+
+### Monday Evening
+
+<p class="evening-subtitle">A composition of Saint Andrew of Crete</p>
+
+<p class="evening-subtitle">Whose acrostic is “Lamentation hath brought forth grace from God for mortals.”</p>
+
+#### Ode 1
+
+<p class="ode">O Mother of God, grant me a mournful life, narrow and bitter, and full of tears so that I may wash away my filth and stand before the Judge cleansed.</p>
+
+<p class="ode">Having chanced upon fleeting, earthly, and sordid unions, I did not respect the shining beauty of the soul, O Mother of God, but with pleasures I rendered my body useless.</p>
+
+<p class="ode">O gate of the divine east, open unto me the gates of repentance and deliver me by thy mediation, O Lady, from the gates of death-bearing sin.</p>
+
+<p class="ode">Through fasting, tears, and weeping, God is made merciful, O Mother of God, unto those like me who have foolishly grieved him. Make him merciful unto me before the end, O Lady.</p>
+
+#### Ode 3
+
+<p class="ode">The ministering spirits of the heavenly angels bitterly lamented over my fall, and the dark spirits of the aerial demons laughed approvingly, O Birth-giver of God.</p>
+
+<p class="ode">With the proper measure of toil by the humble, O immaculate one, the all-wondrous honey of virtue is cultivated. Wherefore strengthen my all-wretched soul to live with a humble mind.</p>
+
+<p class="ode">O Lady who art in truth the daughter of the king and the Mother of the Lord of all, banish far from me the sins that now rule over me like a dishonorable servant.</p>
+
+<p class="ode">With the sprinkling of tears, O Lady, cleanse the ugliness of my sins and wash away my rotting and festering wounds, and grant health, I pray, unto me, thy servant.</p>
+
+#### Ode 4
+
+<p class="ode">Arise, O fallen ones! Christ commands us not to resist, but rather to receive the compassion of his Mother.</p>
+
+<p class="ode">What saved Peter? Only repentance, O Bride of God, as it did the thief, the harlot, and the prodigal. Account me worthy to imitate them.</p>
+
+<p class="ode">The one who could not be contained was contained in thy womb, O all-holy one, saving me, who have drowned in sins, by his goodness.</p>
+
+<p class="ode">I beseech thee, O Lady, do not abandon me in the hour of affliction, but show thyself to be merciful and deliver me from the wounding of the demons.</p>
+
+#### Ode 5
+
+<p class="ode">I, who have made my garment of baptism useless, need many tears to cleanse it.</p>
+
+<p class="ode">With the fear of punishment, O Lady, turn back my mind, which hath been led astray by worldly fantasies.</p>
+
+<p class="ode">Look upon me, I pray, and hear my voice, and blot out all my sins, O all-pure one.</p>
+
+<p class="ode">Enlighten with thy light of thy countenance, O sun-shaped bride, thy servant who hath been darkened by the passions.</p>
+
+#### Ode 6
+
+<p class="ode">We are indebted to ceaselessly hymn God with heart and mouth, O Virgin, but we are overcome by laziness.</p>
+
+<p class="ode">O pure one, rescue me, thy wretched servant, from out of the complex dangers and terrible calamities that now grieve me.</p>
+
+<p class="ode">In the hour of my death, O august one, show forth thy help and deliver me from the evil demons seeking to snatch me away.</p>
+
+<p class="ode">Let us fast, weep, and mourn while we have time, so that we may revel and dance in the age to come.</p>
+
+#### Kathisma
+
+<p class="ode">The Word of the Father came down to the world, and the angel of light cried to the Virgin: Rejoice, thou blessed one who alone hast guarded her virginity. Rejoice, thou who didst conceive him who before the ages is God and Lord in order to save the race of man from error.</p>
+
+#### Ode 7
+
+<p class="ode">After the winter comes the spring, and after the storm comes the calm, O pure one, and after the darkness of sins comes the light of dispassion through repentance. Wherefore let us, the passionate ones, take courage, repenting.</p>
+
+<p class="ode">O Maiden who didst conceive God incarnate, save my soul, which is ruled by many wicked sins, O blessed pure one, so that I may bless thee.</p>
+
+<p class="ode">Thou wast seen to be a fiery throne and divine palace of the almighty, the salvation of the world, and a shelter to those who cry out to thy Son, O all-blameless one: O God of our fathers, blessed art thou!</p>
+
+<p class="ode">From sweat and toil and groaning of heart, O Mother of God, awareness is born, and from this, dispassion, whose feet may I, who have fallen more than all, be deemed worthy to reach.</p>
+
+#### Ode 8
+
+<p class="ode">The king of the heavens willeth that all fill his kingdom, but we, O Virgin, long for Gehenna.</p>
+
+<p class="ode">More than the creation of the whole world, O Mother of God, the Creator of all longeth for the salvation of all sinful men.</p>
+
+<p class="ode">Because Christ suffered for us, we the faithful are indebted to suffer for him and make dead the soul-destroying passions.</p>
+
+<p class="ode">O pure Virgin, protectress of Christians, deliver us from every necessity so that we may praise thee for all ages.</p>
+
+#### Ode 9
+
+<p class="ode">Drip the drops of thy mercy onto me, O Mother of God, and drive away the darkness of ignorance, for thou alone didst conceive the redemption of mortal men.</p>
+
+<p class="ode">Covered by the mud of the passions and tarnished by the filth of pleasures, cleanse me, O Lady, as thou art my good protectress.</p>
+
+<p class="ode">By the armor of the cross, strengthen the faith of the Christ-loving rulers, O friend of man, by the prayers of she who gave thee birth, as thou are most merciful.</p>
+
+<p class="ode">Deliver thy flock, which honors thee, from earthquakes, famine, fire, captivity, and civil war, O graced of God.</p>
+
+#### Prosomia
+
+<p class="ode">Rejoice, ever-virgin Lady who didst faithfully imitate the good one with thy nature, O good one, enriching thyself, O pure one, as a mother with goodness, which is the first and best of his qualities. Wherefore also thou shalt do good unto those who praise thee, as thou art compassionate and a friend of man, and thou shalt guide them toward the enjoyment of the eternal good things, O all-immaculate one.</p>
+
+<p class="ode">Rejoice, O pure one, thou blessed tabernacle of God, thou exalted and brilliant palace of the king, thou bridal chamber not made by hands, thou bridal chamber adorned with gold and purple, thou bridal chamber sweet-smelling and all-honorable, thou living palace of precious stones and pearls. Rejoice, O immaculate one, thou all-golden throne, thou living tongs bearing the coal of immaterial fire.</p>
+
+<p class="ode">Rejoice, O Mary, the Mistress of the whole world, who art called august, as thou art she who gavest birth to Christ the Lord of lords; who, being truly ever-virgin, didst enrich thyself by acquiring, beyond perfection, purity of mind, soul, and body, by which all have become thy handmaids, as to a mistress.</p>
+
+<p class="ode">Grant me to complete my life through all the august blessings of thy Son, O all-blameless one, to be poor in mind, to weep, to be gentle, to hunger, to thirst for righteousness, to be pure and merciful, to make peace, to be persecuted for God, and to rejoice, exulting in these.</p>
+
+## Footnotes
+
+**1 S 4 1:**  Some versions read ικέτη (supplicant), instead of οικέτη (house-hold slave or servant).
+
+**6 M 1 4:**  The phrase "... and let them now weep" is probably referring to sinners, and not to the bride and bridegroom.
+
+**8 M P 2:**  Bridal-chamber is repeated three times with different words in Greek (νυμφών, παστάς, θάλαμος).
+
+**8 M P 3:**  Some versions read ναός (temple) instead of νοός (mind), resulting in a reading of "... perfectiοn of purity, thou temple of soul and body, ...". This is probably a typo, as νοός makes more sense in this context.
 
 <style>
 p.ode:first-letter {

@@ -6,6 +6,10 @@
 
 {{main_content}}
 
+## Footnotes
+
+{{footnotes}}
+
 <style>
 p.ode:first-letter {
     color: #880000;

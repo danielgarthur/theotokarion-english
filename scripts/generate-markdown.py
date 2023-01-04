@@ -12,6 +12,8 @@ def main():
     while line:
         if line.startswith('{{main_content}}'):
             generateMainContent(file_out)
+        elif line.startswith('{{footnotes}}'):
+            generateFootnotes(file_out)
         else:
             file_out.write(line)
         line = file_template.readline()
@@ -58,6 +60,27 @@ def generateMainContent(file_out):
             line = f'<p class="ode">{line}</p>'
         elif evening and len(line) > 0:
             line = f'<p class="evening-subtitle">{line}</p>'
+
+        line += '\n'
+
+        file_out.write(line)
+        line = file_in.readline()
+
+    file_in.close()
+
+
+def generateFootnotes(file_out):
+    file_in = open('../sources/footnotes.txt', 'r', encoding='utf-8')
+
+    line = file_in.readline()
+
+    while line:
+        line = line.rstrip()
+
+        tokens = line.split(':', 1)
+
+        if len(tokens) == 2:
+            line = f'**{tokens[0]}:** {tokens[1]}'
 
         line += '\n'
 
