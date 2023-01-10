@@ -274,7 +274,7 @@
 
 <p class="ode">After the winter comes the spring, and after the storm comes the calm, O pure one, and after the darkness of sins comes the light of dispassion through repentance. Wherefore let us, the passionate ones, take courage, repenting.</p>
 
-<p class="ode">O Maiden who didst conceive God incarnate, save my soul, which is ruled by many wicked sins, O blessed pure one, so that I may bless thee.</p>
+<p class="ode">O aptly named Maiden who didst conceive God incarnate, save my soul, which is ruled by many wicked sins, O blessed pure one, so that I may bless thee.</p>
 
 <p class="ode">Thou wast seen to be a fiery throne and divine palace of the almighty, the salvation of the world, and a shelter to those who cry out to thy Son, O all-blameless one: O God of our fathers, blessed art thou!</p>
 
@@ -306,19 +306,21 @@
 
 <p class="ode">Rejoice, O pure one, thou blessed tabernacle of God, thou exalted and brilliant palace of the king, thou bridal chamber not made by hands, thou bridal chamber adorned with gold and purple, thou bridal chamber sweet-smelling and all-honorable, thou living palace of precious stones and pearls. Rejoice, O immaculate one, thou all-golden throne, thou living tongs bearing the coal of immaterial fire.</p>
 
-<p class="ode">Rejoice, O Mary, the Mistress of the whole world, who art called august, as thou art she who gavest birth to Christ the Lord of lords; who, being truly ever-virgin, didst enrich thyself by acquiring, beyond perfection, purity of mind, soul, and body, by which all have become thy handmaids, as to a mistress.</p>
+<p class="ode">Rejoice, O aptly named Mary, the Mistress of the whole world, who art called august, as thou art she who gavest birth to Christ the Lord of lords; who, being truly ever-virgin, didst enrich thyself by acquiring, beyond perfection, purity of mind, soul, and body, by which all have become thy handmaids, as to a mistress.</p>
 
 <p class="ode">Grant me to complete my life through all the august blessings of thy Son, O all-blameless one, to be poor in mind, to weep, to be gentle, to hunger, to thirst for righteousness, to be pure and merciful, to make peace, to be persecuted for God, and to rejoice, exulting in these.</p>
 
 ## Footnotes
 
-**1 S 4 1:**  Some versions read ικέτη (supplicant), instead of οικέτη (house-hold slave or servant).
+Footnotes are indexed by **[Tone] [Day] [Ode] [Troparion]**.
 
-**6 M 1 4:**  The phrase "... and let them now weep" is probably referring to sinners, and not to the bride and bridegroom.
+**1 Sun 4 1:**  Some versions read ικέτη (supplicant), instead of οικέτη (house-hold slave or servant).
 
-**8 M P 2:**  Bridal-chamber is repeated three times with different words in Greek (νυμφών, παστάς, θάλαμος).
+**6 Mon 1 4:**  The phrase "... and let them now weep" is probably referring to sinners, and not to the bride and bridegroom.
 
-**8 M P 3:**  Some versions read ναός (temple) instead of νοός (mind), resulting in a reading of "... perfectiοn of purity, thou temple of soul and body, ...". This is probably a typo, as νοός makes more sense in this context.
+**8 Mon P 2:**  Bridal-chamber is repeated three times with different words in Greek (νυμφών, παστάς, θάλαμος).
+
+**8 Mon P 3:**  Some versions read ναός (temple) instead of νοός (mind), resulting in a reading of "... perfectiοn of purity, thou temple of soul and body, ...". This is probably a typo, as νοός makes more sense in this context.
 
 <style>
 p.ode:first-letter {
