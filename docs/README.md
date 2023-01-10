@@ -306,7 +306,7 @@
 
 <p class="ode">Rejoice, O pure one, thou blessed tabernacle of God, thou exalted and brilliant palace of the king, thou bridal chamber not made by hands, thou bridal chamber adorned with gold and purple, thou bridal chamber sweet-smelling and all-honorable, thou living palace of precious stones and pearls. Rejoice, O immaculate one, thou all-golden throne, thou living tongs bearing the coal of immaterial fire.</p>
 
-<p class="ode">Rejoice, O aptly named Mary, the Mistress of the whole world, who art called august, as thou art she who gavest birth to Christ the Lord of lords; who, being truly ever-virgin, didst enrich thyself by acquiring, beyond perfection, purity of mind, soul, and body, by which all have become thy handmaids, as to a mistress.</p>
+<p class="ode">Rejoice, O aptly named Mary who art called the august Mistress of the whole world, as thou art she who gavest birth to Christ the Lord of lords; thou who, being truly ever-virgin, didst enrich thyself by acquiring, beyond perfection, purity of mind, soul, and body, by which all have become thy handmaids, as to a mistress.</p>
 
 <p class="ode">Grant me to complete my life through all the august blessings of thy Son, O all-blameless one, to be poor in mind, to weep, to be gentle, to hunger, to thirst for righteousness, to be pure and merciful, to make peace, to be persecuted for God, and to rejoice, exulting in these.</p>
 
