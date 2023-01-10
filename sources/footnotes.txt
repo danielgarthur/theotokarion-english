@@ -1,7 +1,7 @@
-1 S 4 1: Some versions read ικέτη (supplicant), instead of οικέτη (house-hold slave or servant).
+1 Sun 4 1: Some versions read ικέτη (supplicant), instead of οικέτη (house-hold slave or servant).
 
-6 M 1 4: The phrase "... and let them now weep" is probably referring to sinners, and not to the bride and bridegroom. 
+6 Mon 1 4: The phrase "... and let them now weep" is probably referring to sinners, and not to the bride and bridegroom. 
 
-8 M P 2: Bridal-chamber is repeated three times with different words in Greek (νυμφών, παστάς, θάλαμος).
+8 Mon P 2: Bridal-chamber is repeated three times with different words in Greek (νυμφών, παστάς, θάλαμος).
 
-8 M P 3: Some versions read ναός (temple) instead of νοός (mind), resulting in a reading of "... perfectiοn of purity, thou temple of soul and body, ...". This is probably a typo, as νοός makes more sense in this context. 
+8 Mon P 3: Some versions read ναός (temple) instead of νοός (mind), resulting in a reading of "... perfectiοn of purity, thou temple of soul and body, ...". This is probably a typo, as νοός makes more sense in this context. 

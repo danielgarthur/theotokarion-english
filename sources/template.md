@@ -8,6 +8,8 @@
 
 ## Footnotes
 
+Footnotes are indexed by **[Tone] [Day] [Ode] [Troparion]**.
+
 {{footnotes}}
 
 <style>
