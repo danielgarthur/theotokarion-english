@@ -14,9 +14,9 @@
 
 #### Ode 1
 
-<p class="ode">O come today, my soul, and let us offer the first-fruits of lamentation unto the Theotokos. For she hath redeemed the race of man from Adam's curse, and hath bestowed the blessing and joy.</p>
+<p class="ode">O come today, my soul, and let us offer the first-fruits of lamentation unto the Theotokos. For she hath redeemed the race of man from Adam’s curse, and hath bestowed the blessing and joy.</p>
 
-<p class="ode">My tears, as numerous as the Jordan's streams, shall in no wise suffice to wash away the mire of my sins. But cleanse me, O Virgin, by thy compassion.</p>
+<p class="ode">My tears, as numerous as the Jordan’s streams, shall in no wise suffice to wash away the mire of my sins. But cleanse me, O Virgin, by thy compassion.</p>
 
 <p class="ode">O Virgin who gavest birth to Christ the sun of righteousness that setteth not, enlighten, I pray, the eyes of my soul darkened by the mist of pleasures and fatness of sin.</p>
 
@@ -60,7 +60,7 @@
 
 <p class="ode">Reflecting on the madness of those before the law, I set my hand to shameful deeds, foolishly laying one atop another like walls. Wherefore by the divine Spirit, O pure one, grant me understanding.</p>
 
-<p class="ode">The truly haughty ones have laid a trap for me, O all-hymned one. And with the cords of my transgressions they have stretched out snares before my feet. O good one, melt them like a spider's web.</p>
+<p class="ode">The truly haughty ones have laid a trap for me, O all-hymned one. And with the cords of my transgressions they have stretched out snares before my feet. O good one, melt them like a spider’s web.</p>
 
 #### Kathisma
 
@@ -105,6 +105,108 @@
 <p class="ode">Rejoice, immaculate one, thou lush and fragrant meadow. Rejoice, blossoming vine. Rejoice, O Virgin, thou fruitful olive tree. Rejoice, myrrh-breathing vineyard of God. Rejoice, densely-wooded and shady mountain. Rejoice, Ever-Virgin, thou pleasant garden of grace.</p>
 
 <p class="ode">Fill my heart with joy, O pure one, as thou art compassionate, and set me free from tears, as one who didst give birth to joy, thou who alone art the Mother of God. And rescue me, thy servant, I pray, from all dangers, so that I may glorify and magnify thee with longing, O thou who dost surpass all beings.</p>
+
+## Third Tone
+
+### Saturday Evening
+
+<p class="evening-subtitle">A composition of Manuel the Great Rhetorician</p>
+
+<p class="evening-subtitle">Whose acrostic is “Unto the Virgin I sing out a song in the Third Mode. Manuel.”</p>
+
+#### Ode 1
+
+<p class="ode">As she who gavest birth unto the depth of immeasurable wisdom, O blessed Maria, grant illumination unto me, and inspire a word now, that I may hymn thine all-shining magnificent works, which the Lord hath done for thee, O Maiden.</p>
+
+<p class="ode">Having utterly cast down the sting of death and the power of Hades by thy most holy childbirth, O all-pure one, and having quickened us: Glory to thy magnificent works, which the Lord hath done for thee, O Maiden.</p>
+
+<p class="ode">O all-shining gate, from which the Great Fire, shining, hath ineffably come forth and illumined the faithful and utterly burned up all the altars of the demons: Glory to thy magnificent works, which the Lord hath done for thee, O Maiden.</p>
+
+<p class="ode">Having resurrected Adam and Eve, who had perished on account of the terrible transgression, and having given birth to the Fountain of Life, Christ our God: Glory to thy magnificent works, which the Lord hath done for thee, O Maiden.</p>
+
+#### Ode 3
+
+<p class="ode">Rescue from all dangers and misfortunes those who hymn thy most-holy childbirth, O Lady; for thou hast the power to do as thou willest, O pure one.</p>
+
+<p class="ode">Magnify thy riches upon me, have mercy on me, and give me a helping hand; for thou hast the power to do as thou willest, O pure one.</p>
+
+<p class="ode">The arrows of the enemy have pierced me, but, by thy divine will, restore me to health; for thou hast the power to do as thou willest, O pure one.</p>
+
+<p class="ode">Subjecting my mind to the movements of the flesh, I have filled myself with darkness, but do thou cleanse and enlighten me; for thou hast the power to do as thou willest, O pure one.</p>
+
+#### Ode 4
+
+<p class="ode">A mediatress hast thou become beween God and mortals, O all-hymned one, and thou hast exceedingly reconciled the creature, which had been banished from that which had been formed. Rejoice, thou who shinest salvation upon all thy servants.</p>
+
+<p class="ode">Put joy into my much-pained heart, which hath been conquered by the sorrows of the one who sows envy in the world. Rejoice, thou who shinest salvation upon all thy servants.</p>
+
+<p class="ode">Deliver me from the terrors that encompass me, O all-pure one, and which do not suffer my mind to weaves hymns to thy divine glory, that I may cry with longing unto thee: Rejoice, thou who shinest salvation upon all thy servants.</p>
+
+<p class="ode">By thy supplications, O Maiden, cause thy Son and God to be merciful unto us, so that we may be preserved from wrath and affliction, and that we may ever cry unto thee: Rejoice, thou who shinest salvation upon all thy servants.</p>
+
+#### Ode 5
+
+<p class="ode">By thy prayers, O Maiden, create a mixture of elements for the restoration to health of thy servant; for thou hast caused everlasting life to spring forth into the world.</p>
+
+<p class="ode">Let not plague come upon thy people, O Virgin, but preserve us unscathed as thou art compassionate; for thou hast caused everlasting life to spring forth into the world.</p>
+
+<p class="ode">O immaculate Maiden, deliver me from every disease, and guard thy servant on all sides; for thou hast caused everlasting life to spring forth into the world.</p>
+
+<p class="ode">In the bed of sickness upon which I lie, O pure one, quickly raise me up by thy compassion; for thou hast caused everlasting life to spring forth into the world.</p>
+
+#### Ode 6
+
+<p class="ode">We know thee to be an evergreen tree and plant, O Maiden, from whom blossomed forth the Life, Christ our God, the river of mercy; wherefore we revere thee the very Theotokos.</p>
+
+<p class="ode">The unburnt bush in Sinai guarded a figure of thy childbirth; and rescue us from every sorrow by thy shelter; for we revere thee the very Theotokos.</p>
+
+<p class="ode">With tears I fall prostrate before thee, O good one, and I cry out unto thee: Have mercy upon me, O Lady, who must give account for many sins and passions, that I may revere thee the very Theotokos.</p>
+
+<p class="ode">A fountain of grace hath dwelt in thee, wherefore distribute grace to those who honor thee, and show grace to my heart abundantly, O Maiden, for I revere thee the very Theotokos.</p>
+
+#### Kathisma
+
+<p class="ode">Thou hast been shown to be an all-golden throne of the king and a paradise adorned with flowers, O all-hymned Theotokos, for thou hast born God in thy womb, emitting a sweet fragrance of divine grace; wherefore ever do we all proclaim thee to be truly the mother of God, and we magnify thee.</p>
+
+#### Ode 7
+
+<p class="ode">Thou art the great mercy seat of Christians and a mediatress before our God and Creator, who was ineffably born from thee, O good one; wherefore we cry unto thee: Rejoice, sun-shaped throne of glory.</p>
+
+<p class="ode">The rod of Moses once prefigured thee, O pure one who didst lead us from the deception of dreadful idolatry to divine truth; wherefore we cry unto thee: Rejoice, sun-shaped throne of glory.</p>
+
+<p class="ode">By thy motherly prayers, O spotless one, cause thy Son and our God to be merciful toward us thy sinful servants, and deliver us from diseases; for we ever cry unto thee: Rejoice, sun-shaped throne of glory.</p>
+
+<p class="ode">Once the figures of the Cherubim overshadowed the Ark; and the almighty power from on high overshadowed thee manifestly, O pure one, as a temple of the Godhead; wherefore we cry unto thee: Rejoice, sun-shaped throne of glory.</p>
+
+#### Ode 8
+
+<p class="ode">The divine David thy forefather saith “Glorious things have been spoken of thee, O living city of God”, announcing beforehand the glory with which thou hast enriched us; Rejoice, temple of glory, through whom the King of Glory hath been glorified.</p>
+
+<p class="ode">Ailing in soul and body from carelessness, O Mother of God, raise me from the bed by thy mercy, that I may ever cry unto thee in faith: Rejoice, temple of glory, through whom the King of Glory hath been glorified.</p>
+
+<p class="ode">Upon thee only have I placed the hope of my salvation, O Virgin; and in thee I wait to be saved from sorrows and afflictions, that I may sing: Rejoice, temple of glory, through whom the King of Glory hath been glorified.</p>
+
+<p class="ode">Repel the wicked attacks of enemies by thy power, O all-pure Maiden, that ever torment me by the envy of the cunning one, that I may sing: Rejoice, temple of glory, through whom the King of Glory hath been glorified.</p>
+
+#### Ode 9
+
+<p class="ode">Fill my ever-thirsting soul with streams of divine knowledge, O Maiden, directing it toward longing for thy Son, O pure one, and delivering it from the affronts of enemies both visible and invisible; for by thy sign alone shall I be preserved unharmed.</p>
+
+<p class="ode">The Creator and Maker of all dwelling in thee ineffably, O pure Maiden, the mortal nature was wholly cleaned of the ancient ancestral curse; wherefore rescue even me from dangers; for by thy sign alone shall I be preserved unharmed.</p>
+
+<p class="ode">O Maiden, who from above savest from dangers and afflictions by the strength of thy hand all those who with faith hymn thy divine childbirth, from which thou has obtained glory from the God of all; guard now even me who doth hymn thee; for by thy sign alone shall I be preserved unharmed.</p>
+
+<p class="ode">The Christian laity and clergy fall down as slaves before thy mercy, O pure one, and now call upon thy help to speedily deliver us from plague, famine, and the assaults of enemies; for by thy sign alone shall they be preserved unharmed.</p>
+
+#### Prosomia
+
+<p class="ode">Rejoice, we all cry to thee, O Mary Theotokos; rejoice, temple of the Lord; rejoice, Lady full of grace; rejoice, light that thou ineffably sendest forth, enlightening those in the darkness of error.</p>
+
+<p class="ode">Rejoice, radiant crown of athletes, O pure Virgin Mother; rejoice, throne of God; rejoice, all-honorable and exceedingly glorified one; rejoice, thou who didst put an end to the shadow of the law, as one who gavest birth to the giver of the law.</p>
+
+<p class="ode">Rejoice, O pure one, who didst introduce the sun to those who lie in darkness; rejoice, rampart and shelter of those fleeing unto thee from the heart; rejoice, God-inspired adornment of virgins, and protection of all Orthodox.</p>
+
+<p class="ode">Have compassion and save thy servant, O Virgin, who is now tossed about in the waves of the sea of dangers and blown about by a wind of many misfortunes, thou who gavest birth to the immeasurable sea of compassions, O Maiden.</p>
 
 ## Plagal of the Second Tone
 
@@ -315,6 +417,10 @@
 Footnotes are indexed by **[Tone] [Day] [Ode] [Troparion]**.
 
 **1 Sun 4 1:**  Some versions read ικέτη (supplicant), instead of οικέτη (house-hold slave or servant).
+
+**3 Sat 7 3:**  Some versions read ικέτη (supplicant), instead of οικέτη (house-hold slave or servant).
+
+**3 Sat 9 1:**  The "sign" here is νεύω, which refers to a nod or bow indicating assent.
 
 **6 Mon 1 4:**  The phrase "... and let them now weep" is probably referring to sinners, and not to the bride and bridegroom.
 
